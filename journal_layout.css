@@ -38,3 +38,6 @@ body{
 .alltop{
 	overflow: hidden;
 }
+*:hover{
+	border: 2px dashed yellow;
+}
